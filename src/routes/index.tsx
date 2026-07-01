@@ -1,9 +1,9 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { useState } from "react";
-import heroBg from "@/assets/hero-bg.jpg";
-import chair1 from "@/assets/chair-1.jpg";
-import chair2 from "@/assets/chair-2.jpg";
-import chair3 from "@/assets/chair-3.jpg";
+import heroBg from "@/assets/m3.jpeg";
+import chair1 from "@/assets/chair-3.jpg";
+import chair2 from "@/assets/m3.jpeg";
+import chair3 from "@/assets/m4.jpeg";
 
 export const Route = createFileRoute("/")({
   component: Landing,
